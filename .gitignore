@@ -1,0 +1,6 @@
+# Ignore dataset and venv
+data/creditcard.csv
+venv/
+*.pyc
+__pycache__/
+.DS_Store
